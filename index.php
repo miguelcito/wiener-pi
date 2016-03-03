@@ -10,6 +10,6 @@
 <h>miguel angel</h>
 <h>miguel angel</h>
 <h>miguel angel</h>
-	
+<h1>yo soy tu amigo patin</h1>	
 </body>
 </html>
