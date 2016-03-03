@@ -12,5 +12,6 @@
 <h>miguel angel</h>
 <h1>yo soy tu amigo patin</h1>
 <h1>te amo peru</h1>	
+<h1>patin eres mi amigo</h1>
 </body>
 </html>
